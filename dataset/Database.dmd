@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Database" id="19EAE9BB-8B2D-606D-81E4-01A5A7165A8A" version="3.5">
+<createdBy>Dell</createdBy>
+<createdTime>2023-05-15 13:52:07 UTC</createdTime>
+<ownerDesignName>Database</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>19EAE9BB-8B2D-606D-81E4-01A5A7165A8A</designId>
+</OSDM_Design>
